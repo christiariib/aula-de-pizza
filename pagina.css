@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+
+header{
+
+
+    height: 500px;
+background-image: url(pizza3.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+    
+    
+
+
+}
+nav ul{
+    height: 120px;
+    width: 100%;
+    display: flex;
+    color: azure;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style-type: none;
+    
+}
+li{
+    font-family: font_pizza;
+    font-size: 40px;
+}
